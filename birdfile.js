@@ -12,7 +12,7 @@ var birdConfig = {
     // port: 5678, // default 8899
     staticFileRootDirPath: './static',
     mockRoot: './mock',
-    middleware: false,
+    middleware: true,
     // showXhrData: false,
     debug: true,
     useServer: 'devServer',
